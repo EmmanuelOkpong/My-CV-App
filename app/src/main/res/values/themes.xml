@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EmmaCV" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+
+        <item name="colorPrimary">#0A2BDF</item>
+        <item name="colorPrimaryVariant">#0A2BDF</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+
+    <style name="Theme.EmmaCV" parent="Base.Theme.EmmaCV" />
+</resources>
